@@ -122,4 +122,4 @@ MIT License © 2025 Aservices
 ## 📞 Support
 
 For help, bug reports, or feature requests:
-Amarire Dev — mailito:contact@amarire.dev
+Amarire Dev — mailto:contact@amarire.dev
